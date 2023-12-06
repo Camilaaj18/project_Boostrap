@@ -1,0 +1,36 @@
+body{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(200, 247, 247, 0.918);
+}
+
+body nav a.navbar-brand{
+    margin-left: 40px
+}
+
+body nav form{
+    margin-left: 370px;
+}
+
+body div.container div.d-flex {
+    justify-content: space-around;
+}
+
+body div.container div.d-flex div.card{ 
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 30px;
+    text-align: center;
+    border-color: rgba(18, 20, 20, 0.952);
+    border-width: 15px;
+    border-style:groove;
+   
+
+}
+
+
+
+
+body div.d-flex div.card div.card-body p.card-text{
+    text-align: justify;
+}
